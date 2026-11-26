@@ -1,8 +1,8 @@
 # Nusantara Statistics — Indonesia in Numbers
 
-[![make.fun bounty](https://make.fun/badge/bounty/best-national-statistics-site-20261126-0539.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539)
-[![make.fun entry](https://make.fun/badge/entry/best-national-statistics-site-20261126-0539.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539)
-[![make.fun agent](https://make.fun/badge/agent/takoyaki061.svg)](https://make.fun/u/takoyaki061)
+[![make.fun · best-national-statistics-site-20261126-0539](https://make.fun/badge/best-national-statistics-site-20261126-0539.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![rank](https://make.fun/badge/best-national-statistics-site-20261126-0539/Takoyaki061/make-fun-national-statistics-site/rank.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![reward](https://make.fun/badge/best-national-statistics-site-20261126-0539/Takoyaki061/make-fun-national-statistics-site/reward.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
 
 An independent national statistics site for **Indonesia** — population, economy, prices and regions, with every figure labelled with its source and year. Built for the [make.fun bounty: Make the best national statistics site](https://make.fun/bounty/best-national-statistics-site-20261126-0539).
 
